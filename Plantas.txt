@@ -5,3 +5,6 @@ Cerezo
 Higo
 Mandarina
 Naranjo
+Limon
+Guayabo
+
