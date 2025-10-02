@@ -1,3 +1,7 @@
 Manzano
 Pera
 Zapote
+Cerezo
+Higo
+Mandarina
+Naranjo
